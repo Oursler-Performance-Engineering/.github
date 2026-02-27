@@ -26,9 +26,9 @@ Projects here span automation tooling, migration utilities, and infrastructure c
 
 ## Contact
 
-**Website:** [ourslerperformance.com](https://ourslerperformance.com)
-**Status:** Accepting new projects
-**Response:** &lt; 48 hours
+**Website:** [ourslerperformance.com](https://ourslerperformance.com)  
+**Status:** Accepting new projects  
+**Response:** &lt; 48 hours  
 
 ---
 
